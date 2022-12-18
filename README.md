@@ -1,4 +1,4 @@
-# The final work for Data Architecture crush course 2022.
+# The final work for Data Architecture crash course 2022.
 
 ## Structure
 
@@ -11,7 +11,7 @@ The solution pipeline is following:
 
 1. to open and read dataset;
 2. to parse data into dict ('json' looking) type with fields listed in task:
-3. make visualisation.
+3. to make visualisation.
 
 ## Table
 
