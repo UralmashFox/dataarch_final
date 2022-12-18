@@ -2,8 +2,10 @@
 
 ## Structure
 
-The repository contains one folder - *src*, in which *data* folder contains
-the source of data (dataset) and *log_parser* folder contains **.ipynb** file with solution.
+The repository contains three folders:
+- *src*, in which *data* folder contains the source of data (dataset) and *log_parser* folder contains **.ipynb** file with solution;
+- *images*, that stores image of table with structured data;
+- *presentation* with final work presentation.
 
 ## Solution
 
